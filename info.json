@@ -1,12 +1,13 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "energy-combinator-tweaks",
+  "title": "Energy Combinator Tweaks",
+  "description": "Opinionated tweaks to Energy Combinator.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
+    "base >= 2.0.0",
+    "energy-combinator >= 1.1.1"
   ]
 }
